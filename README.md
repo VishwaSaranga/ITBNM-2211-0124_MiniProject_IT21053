@@ -1,6 +1,4 @@
 # ITBNM-2211-0124_MiniProject_IT21053
-⭕ This is the first Java project that I created as an individual project. <br>
-
 ⭕ Project Description <br>
 
 Road Tour Drafter is a Java mini-program designed for road trip planning with a focus on user roles and MVC architecture. This system has three user types, <br>
